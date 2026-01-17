@@ -1,0 +1,10 @@
+# Ignore Database files
+*.db
+*.sqlite3
+
+# Ignore the Data Folder containing XMLs
+data/
+
+# Ignore Python system files
+__pycache__/
+*.pyc
